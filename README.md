@@ -8,7 +8,7 @@
 ---
 # Sommaire : 
 - [Électroniques - <b>40% de l'émission de CO2</b>](#-%C3%A9lectroniques---40-de-l%C3%A9mission-de-co2)
-    - [À quel point je pollue ?](#à-quel-point-je-pollue)
+    - [À quel point je pollue ?](#%C3%A0-quel-point-je-pollue)
 - [Nourriture  - <b>14.5% de l'émission de CO2</b>](#🍽️-nourriture---b145-de-lémission-de-co2b)
 - [Transports - <b>24.5% de l'émission de CO2</b>](#🚗-transports---b245-de-lémission-de-co2b)
     - [Trajets courts](#🚲-trajets-courts)
