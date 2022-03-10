@@ -122,7 +122,7 @@ Pour ce type de tranports, il est souvent compliqué de s'y rendre à pied ou en
 * 🟨 Trains grandes lignes : 10g CO2/km
 * 🟧 Bus : 20g CO2/km
 * 🟧 Voiture : 85g CO2/km
-* 🟥Avion : 145g CO2/km
+* 🟥 Avion : 145g CO2/km
 
 ### Commande internet
 
