@@ -63,14 +63,16 @@ Ces informations sont dans un scénario où le pc est allumé et utilisé 8 heur
     
 ## Pollution et sites internet
 
-Un site internet est un ensemble de fichiers stockés sur un serveur, ce qui est à un coût en électricié assez important.
+Un site internet est un ensemble de fichiers stockés sur un serveur, ce qui est à un coût en électricié assez important. \
 Il existe des outils pour calculer la pollution d'un site internet tel que : https://www.websitecarbon.com/
     
 <br>
 
 ## Emails
-L'échange d'emails est une importante source d'émission de gaz à effet de serres.
-Pour un simple mail textuel, la consommation s'élève à 4g de CO2. Un mail avec une image se propule à 50g de CO2 car stocker l'image nécessite de la place.
+L'échange d'emails est une importante source d'émission de gaz à effet de serres.\
+Pour un simple mail textuel, la consommation s'élève à 4g de CO2. \
+Un mail avec une image se propule à 50g de CO2 car stocker l'image nécessite de la place.
+    
 ✅ Il faut donc :
 * Nettoyer régulièrement sa boite mail
 * Utiliser des gestionnaires de newsletters comme https://www.cleanfox.io/en/
