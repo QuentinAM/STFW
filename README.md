@@ -7,7 +7,7 @@
 
 ---
 # Sommaire : 
-- [Électroniques - <b>40% de l'émission de CO2</b>](#1)
+- [Électroniques - <b>40% de l'émission de CO2</b>]
     - [À quel point je pollue ?](#à-quel-point-je-pollue)
 - [Nourriture  - <b>14.5% de l'émission de CO2</b>](#🍽️-nourriture---b145-de-lémission-de-co2b)
 - [Transports - <b>24.5% de l'émission de CO2</b>](#🚗-transports---b245-de-lémission-de-co2b)
@@ -22,7 +22,7 @@
 - [Sources](./Sources.md)
 ---
 
-[1]# 💻 Électroniques - <b>40% de l'émission de CO2</b>
+# 💻 Électroniques - <b>40% de l'émission de CO2</b>
 > L'électronique est la source d'émission de CO2 la plus importante.
 ##  À quel point je pollue ?
 
