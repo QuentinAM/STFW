@@ -7,12 +7,12 @@
 
 ---
 # Sommaire : 
-- [Électroniques - <b>40% de l'émission de CO2</b>](#-%C3%A9lectroniques---40-de-l%C3%A9mission-de-co2)
+- [Électroniques - <b>40% de l'émission de CO2 (10% en France)</b>](#-électroniques---40-de-lémission-de-co2-10-en-france)
     - [À quel point je pollue ?](#%C3%A0-quel-point-je-pollue-)
     - [Pollution d'un site internet](#pollution-et-sites-internet)
     - [Email](#emails)
-- [Nourriture  - <b>14.5% de l'émission de CO2</b>](#%EF%B8%8F-nourriture---145-de-lémission-de-co2)
-- [Transports - <b>24.5% de l'émission de CO2</b>](#-transports---245-de-lémission-de-co2)
+- [Nourriture  - <b>14.5% de l'émission de CO2 (19% en France)</b>](#%EF%B8%8F-nourriture---145-de-lémission-de-co2-19-en-france)
+- [Transports - <b>24.5% de l'émission de CO2 (30% en France)</b>](#-transports---245-de-lémission-de-co2-30-en-france)
     - [Trajets courts](#-trajets-courts)
     - [Covoiturage - Trajets domicile/travail](#-covoiturage---trajets-domiciletravail)
     - [Trajets longs](#%EF%B8%8F-trajets-longs)
@@ -25,7 +25,7 @@
 - [Sources](./Sources.md)
 ---
 
-# 💻 Électroniques - <b>40% de l'émission de CO2</b>
+# 💻 Électroniques - <b>40% de l'émission de CO2 (10% en France)</b>
 > L'électronique est la source d'émission de CO2 la plus importante.
 ##  À quel point je pollue ?
 
@@ -84,7 +84,7 @@ Généralement, il faut utiliser tout type d'électricité le moins possible, ex
 > "Ce n'est pas moi qui paye" n'est pas une excuse, si personne n'est dans la pièce il est inutile laisser la lumière allumée. Pareil, il faut privilégier les sources de lumières naturelles, inutile d'allumer la lumière si le soleil nous permet de suffisamment.
 
 ---
-## 🍽️ Nourriture - <b>14.5% de l'émission de CO2</b>
+## 🍽️ Nourriture - <b>14.5% de l'émission de CO2 (19% en France)</b>
 Le milieu agricole est aussi grandement responsable du dérèglement climatique.
 
 
@@ -98,7 +98,7 @@ Aujourd'hui, produite 1kg de boeuf revient à utiliser 13 500L d'eau et émettre
 ## 👔 Vêtements
 
 ---
-## 🚗 Transports - <b>24.5% de l'émission de CO2</b>
+## 🚗 Transports - <b>24.5% de l'émission de CO2 (30% en France)</b>
 ### 🚲 Trajets courts
 Pour les cours trajets, il faut prioriser la marche à pied.
 > "En ville, près de la moitié des déplacements en voiture sont inférieurs à trois km. Ces petits trajets engendrent une forte consommation de carburant, et donc d’importantes émissions."
