@@ -1,7 +1,7 @@
 # 🌍 STFW - FR
 
-## 🔥<b>+1.01°C</b> depuis 2000
-## ⚠️ Des conséquences dramatiques si rien n'est fait
+## 🔥<b>+1.01°C</b> depuis 2000 
+## ⚠️ Des conséquences dramatiques si rien n'est fait (+1.50°C en 2035)
 ### Le dérèglement climatique doit être le principal sujet. Vous trouverez ici certaines informations et comment <b>vous</b> pouvez lutter contre.
 
 ---
