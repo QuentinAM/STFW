@@ -91,6 +91,7 @@ Globalement il est préférable d'utiliser des moyens de locomotion non motoris�
 > "En France, les trajets domicile-travail représentent à eux seuls plus de la moitié des émissions de CO2 liées à nos déplacements."
 
 Avec en moyenne des véhicules à 4 places, et 1 voire 2 persones dans chacun, la consommation de carburant est extrêmement importante.
+    
 ✅ Pour les trajets de ce type, il vaut mieux privilégier :
 * les transports en commun.
 * le covoiturage
