@@ -59,14 +59,12 @@ Ces informations sont dans un scénario où le pc est allumé et utilisé 8 heur
 * L'éteindre la nuit (Via une multiprise à interrupteur par exemple)  
 * L'éteindre si on ne va pas l'utiliser dans les 10 minutes
 
-<br>
+## 🔥 <b>14.7168kg CO2/mois</b>
     
 ## Pollution et sites internet
 
 Un site internet est un ensemble de fichiers stockés sur un serveur, ce qui est à un coût en électricié assez important. \
 Il existe des outils pour calculer la pollution d'un site internet tel que : https://www.websitecarbon.com/
-    
-<br>
 
 ## Emails
 L'échange d'emails est une importante source d'émission de gaz à effet de serres.\
@@ -83,10 +81,6 @@ Un mail avec une image se propule à 50g de CO2 car stocker l'image nécessite d
 Généralement, il faut utiliser tout type d'électricité le moins possible, exemple le plus récurrent et inutile :  
 `Laisser la lumière allumée, en moyenne une ampoule émet 🔥 4.2 kg CO2/h`.
 > "Ce n'est pas moi qui paye" n'est pas une excuse, si personne n'est dans la pièce il est inutile laisser la lumière allumée. Pareil, il faut privilégier les sources de lumières naturelles, inutile d'allumer la lumière si le soleil nous permet de suffisamment.
-
-    
-    
-## 🔥 <b>14.7168kg CO2/mois</b>
 
 ---
 ## 🍽️ Nourriture - <b>14.5% de l'émission de CO2</b>
