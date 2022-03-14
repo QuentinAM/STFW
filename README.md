@@ -2,13 +2,14 @@
 ## (⚙️ En cours...)
 
 ## 🔥<b>+1.01°C</b> depuis 2000 
-## ⚠️ Des conséquences dramatiques si rien n'est fait (+1.50°C en 2035)
+## ⚠️ Des conséquences dramatiques si rien n'est fait (+1.50°C en 2035 alors que ce seuil devrait être atteint en 2100 selon l'accord de Paris)
 ### Le dérèglement climatique doit être au coeur des débats actuels. Vous trouverez ici certaines informations et comment <b>vous</b> pouvez lutter contre.
 
 ---
 # Sommaire : 
 - [Électroniques - <b>40% de l'émission de CO2</b>](#-%C3%A9lectroniques---40-de-l%C3%A9mission-de-co2)
     - [À quel point je pollue ?](#%C3%A0-quel-point-je-pollue-)
+    - [Matériel](#🖥️-matériel)
 - [Nourriture  - <b>14.5% de l'émission de CO2</b>](##%EF%B8%8F-nourriture---145-de-lémission-de-co2)
 - [Transports - <b>24.5% de l'émission de CO2</b>](#-transports---245-de-lémission-de-co2)
     - [Trajets courts](#-trajets-courts)
@@ -32,7 +33,7 @@
 <summary>📄 Détails data (<b>1.2768kg CO2/mois</b>)</summary>
 <ul>
 <li> 💻 0.015 kWh/GB*</li>
-<li> 🌍 0.28 kg CO2/kWh émit</li>
+<li> 🌍 0.07 kg CO2/kWh émit en France (0.28 en moyenne dans le monde)</li>
 <li> ⚡ 0.0042kg CO2/GB* émit</li>
 <li> 👪 61.2 GB*/Francais/mois </li>
 GB* : envoyé, stocké, transmit
@@ -47,11 +48,13 @@ GB* : envoyé, stocké, transmit
 <details>
 <summary>📄 Ordinateurs (<b>13.44kg CO2/mois</b>)</summary>
 <ul>
-<li> 🌍 0.28 kg CO2/kWh émit</li>
+<li> 🌍 0.07 kg CO2/kWh émit en France (0.28 en moyenne dans le monde)</li>
 <li> 🖥️ Ordinateur de bureau* : 48 kWh/mois</li>
 <li> 💻 Laptop* : 18 kWh/mois </li>
 </details>
-Ces informations sont dans un scénario où le pc est allumé et utilisé 8 heures par jour (*). Si comme beaucoup de monde votre ordinateur est allumé 24h/24 ce chiffre augmente à <b>40.32 kg CO2/mois</b>.
+Ces informations sont dans un scénario où le pc est allumé et utilisé 8 heures par jour (*). Si comme beaucoup de monde votre ordinateur est allumé 24h/24, ce chiffre augmente à <b>40.32 kg CO2/mois</b>. 
+
+Cependant un PC avec l'écran éteint ou en mode veille consommera moins d'énergie et en France l'énergie est plus neutre la nuit qu'en journée.
 
 ✅ Il faut donc le plus possible diminuer l'utilisation de l'ordinateur.
 * L'éteindre la nuit (Via une multiprise à interrupteur par exemple)  
@@ -63,7 +66,22 @@ Généralement, il faut utiliser tout type d'électricité le moins possible, ex
 `Laisser la lumière allumée, en moyenne une ampoule émet 🔥 4.2 kg CO2/h`.
 > "Ce n'est pas moi qui paye" n'est pas une excuse, si personne n'est dans la pièce il est inutile laisser la lumière allumée. Pareil, il faut privilégier les sources de lumières naturelles, inutile d'allumer la lumière si le soleil nous permet de suffisamment.
 
-## 🔥 <b>14.7168kg CO2/mois</b>
+##  🖥️ Matériel
+
+Une autre source avec une grande impact est l'achat de nouveaux appareils électroniques. Car en général, la production pollue beaucoup plus que l'utilisation.
+
+>"80% de l'impact environnemental d'un terminal se fait lors de la fabrication, et 20 % lors de l'utilisation." Frédéric Bordage (Fondateur de Green IT)
+
+Par exemple un macBook va polluer jusqu'à <b>80 fois (290 kg de CO2)</b> que pour un an d'utilisation. Il faut aussi compter le transport car la plupart sont produit en Chine, <b>37 kg CO2</b>.
+
+Il en va de même pour les télés, cela est même pire, plus l'écran est grand plus l'impact l'est.
+
+>"Produire un écran LCD de 45 pouces, cela représente 175 Kg de CO2 et 200 m² d'eau. Fabriquer un écran OLED de 53 pouces, c'est 800 Kg de CO2 et 3 540m² d'eau. On change complétement d'ordre de grandeur." Frédéric Bordage (Fondateur de Green IT)
+
+✅ Les bonnes pratiques vis à vis du matériel :
+- Ne pas acheter de d'autres produits si <b>les notres fonctionnent encore</b>.
+- S'il ne fonctionne plus, l'emmener chez un réparateur, il est parfois mieux de réparer seulement une pièce endommagée que tout l'ordinateur.
+- Privilégier les appareils reconditionnés.
 
 ---
 ## 🍽️ Nourriture - <b>14.5% de l'émission de CO2</b>
