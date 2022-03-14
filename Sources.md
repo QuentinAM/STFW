@@ -7,3 +7,4 @@
 * ## Meat : https://www.lemonde.fr/les-decodeurs/article/2018/12/11/pourquoi-la-viande-est-elle-si-nocive-pour-la-planete_5395914_4355770.html
 * ## Transports : https://www.greenpeace.fr/pollution-de-lair-proteger-sante-deplacons-autrement/
 * ## Sectors splits : https://www.futura-sciences.com/planete/questions-reponses/pollution-transport-co2-part-emissions-1017/
+* ## France stats : https://www.lemonde.fr/les-decodeurs/article/2019/07/08/voiture-industrie-viande-quelles-sont-les-causes-du-rechauffement-climatique-en-france_5486767_4355770.html

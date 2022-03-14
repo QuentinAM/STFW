@@ -1,5 +1,5 @@
 # 🌍 STFW - EN
-(⚙️ In progress...)
+(⚙️ In progress..., focusing on [french version](./README.md) for now)
 ---
 
 ## 🔥<b>+1.01°C</b> since 2000

@@ -7,15 +7,17 @@
 
 ---
 # Sommaire : 
-- [Électroniques - <b>40% de l'émission de CO2</b>](#-%C3%A9lectroniques---40-de-l%C3%A9mission-de-co2)
+- [Électroniques - <b>40% de l'émission de CO2 (10% en France)</b>](#-électroniques---40-de-lémission-de-co2-10-en-france)
     - [À quel point je pollue ?](#%C3%A0-quel-point-je-pollue-)
-    - [Matériel](#🖥️-matériel)
-- [Nourriture  - <b>14.5% de l'émission de CO2</b>](##%EF%B8%8F-nourriture---145-de-lémission-de-co2)
-- [Transports - <b>24.5% de l'émission de CO2</b>](#-transports---245-de-lémission-de-co2)
+    - [Pollution d'un site internet](#pollution-et-sites-internet)
+    - [Email](#emails)
+- [Nourriture  - <b>14.5% de l'émission de CO2 (19% en France)</b>](#%EF%B8%8F-nourriture---145-de-lémission-de-co2-19-en-france)
+- [Transports - <b>24.5% de l'émission de CO2 (30% en France)</b>](#-transports---245-de-lémission-de-co2-30-en-france)
     - [Trajets courts](#-trajets-courts)
     - [Covoiturage - Trajets domicile/travail](#-covoiturage---trajets-domiciletravail)
     - [Trajets longs](#%EF%B8%8F-trajets-longs)
     - [Pollution par type de transports](#pollution-par-type-de-transports-)
+    - [Commande internet](#commande-internet)
 - [Vêtements](#-vêtements)
 - [Santé](#🏥-santé)
 - [Éducation](#🎓-éducation)
@@ -23,7 +25,7 @@
 - [Sources](./Sources.md)
 ---
 
-# 💻 Électroniques - <b>40% de l'émission de CO2</b>
+# 💻 Électroniques - <b>40% de l'émission de CO2 (10% en France)</b>
 > L'électronique est la source d'émission de CO2 la plus importante.
 ##  À quel point je pollue ?
 
@@ -59,7 +61,22 @@ Cependant un PC avec l'écran éteint ou en mode veille consommera moins d'éner
 ✅ Il faut donc le plus possible diminuer l'utilisation de l'ordinateur.
 * L'éteindre la nuit (Via une multiprise à interrupteur par exemple)  
 * L'éteindre si on ne va pas l'utiliser dans les 10 minutes
+    
+## Pollution et sites internet
 
+Un site internet est un ensemble de fichiers stockés sur un serveur, ce qui est à un coût en électricié assez important. \
+Il existe des outils pour calculer la pollution d'un site internet tel que : https://www.websitecarbon.com/
+
+## Emails
+L'échange d'emails est une importante source d'émission de gaz à effet de serres.\
+Pour un simple mail textuel, la consommation s'élève à 4g de CO2. \
+Un mail avec une image se propule à 50g de CO2 car stocker l'image nécessite de la place.
+    
+✅ Il faut donc :
+* Nettoyer régulièrement sa boite mail
+* Utiliser des gestionnaires de newsletters comme https://www.cleanfox.io/en/
+* Éviter d'envoyer des images par mail
+    
 <br>
 
 Généralement, il faut utiliser tout type d'électricité le moins possible, exemple le plus récurrent et inutile :  
@@ -84,7 +101,7 @@ Il en va de même pour les télés, cela est même pire, plus l'écran est grand
 - Privilégier les appareils reconditionnés.
 
 ---
-## 🍽️ Nourriture - <b>14.5% de l'émission de CO2</b>
+## 🍽️ Nourriture - <b>14.5% de l'émission de CO2 (19% en France)</b>
 Le milieu agricole est aussi grandement responsable du dérèglement climatique.
 
 
@@ -98,7 +115,7 @@ Aujourd'hui, produite 1kg de boeuf revient à utiliser 13 500L d'eau et émettre
 ## 👔 Vêtements
 
 ---
-## 🚗 Transports - <b>24.5% de l'émission de CO2</b>
+## 🚗 Transports - <b>24.5% de l'émission de CO2 (30% en France)</b>
 ### 🚲 Trajets courts
 Pour les cours trajets, il faut prioriser la marche à pied.
 > "En ville, près de la moitié des déplacements en voiture sont inférieurs à trois km. Ces petits trajets engendrent une forte consommation de carburant, et donc d’importantes émissions."
@@ -122,8 +139,11 @@ Pour ce type de tranports, il est souvent compliqué de s'y rendre à pied ou en
 * 🟨 Trains grandes lignes : 10g CO2/km
 * 🟧 Bus : 20g CO2/km
 * 🟧 Voiture : 85g CO2/km
-* 🟥Avion : 145g CO2/km
+* 🟥 Avion : 145g CO2/km
 
+### Commande internet
+
+    
 ---
 ## 🏥 Santé
 
