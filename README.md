@@ -19,7 +19,7 @@
     - [Trajets longs](#%EF%B8%8F-trajets-longs)
     - [Pollution par type de transports](#pollution-par-type-de-transports-)
     - [Commande internet](#commande-internet)
-- [Vêtements](#-vêtements---10-de-lémission-de-co2-26-en-france)
+- [Vêtements - <b>10% de l'émission de CO2 (26% en France)</b>](#-vêtements---10-de-lémission-de-co2-26-en-france)
     - [Pas toujours bien de recycler ses vêtements ?](#pas-toujours-bien-de-recycler-ses-vêtements-)
 - [Santé](#🏥-santé)
 - [Éducation](#🎓-éducation)
