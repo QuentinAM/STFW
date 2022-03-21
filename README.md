@@ -141,7 +141,7 @@ Environ la moitié dans un mauvais état, donc non réutilisable. Cela indique p
 > Seulement 3% des vêtements collectés sont redistribués, le reste est expédié à l'international, principalement en Afrique. (Marina Fabre Soundron)
 
 <p align="center">
-    <img src="./ghana_beach.png" width="400" height="250">
+    <img src="./img/ghana_beach.png" width="400" height="250">
     <p>
         Plage à Accra, Ghana © The OR Foundation
     </p>
