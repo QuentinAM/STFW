@@ -19,6 +19,7 @@
     - [Pollution par type de transports](#pollution-par-type-de-transports-)
     - [Commande internet](#commande-internet)
 - [Vêtements](#-vêtements)
+    - [Pas toujours bien de recycler ses vêtements ?](#pas-toujours-bien-de-recycler-ses-vêtements)
 - [Santé](#🏥-santé)
 - [Éducation](#🎓-éducation)
 - [Autres](#🤷-autres)
@@ -112,7 +113,44 @@ Aujourd'hui, produite 1kg de boeuf revient à utiliser 13 500L d'eau et émettre
 > "Actuellement, cela représente au niveau mondial 800 millions de tonnes, soit assez pour nourrir trois milliards et demi d’êtres humains." (Gary Dagorn)
 
 ---
-## 👔 Vêtements
+## 👔 Vêtements - <b>10% de l'émission de CO2 (26% en France)</b>
+
+Contraiement à ce que l'on peut penser, l'industrie du textile pollue plus que les transports motorisés. Chaque année c'est prêt de <b>1,2 milliards de CO2/an</b> produit par ce secteur.
+
+> En moyenne, produire un tee shirt nécessite 2700 L d'eau (l'équivalent de 70 douches), un jean 11 000 L (285 douches) (ADEME)
+
+Prenons l'exemple du tee-shirt, la pollution concerne toutes les étapes de vie du produit :
+- Culture du coton : <b>250g de CO2</b>, car la plupart des exploitations utilisent 54g d'engrais (pour un tee-shirt), et des pesticides. C'est d'ailleurs la culture utilisant le plus de pesticides au monde.
+
+- Fabrication : <b>2500g de CO2</b>, 20% de la pollution des eaux dans le monde seraient imputables à la teinture et au traitement des textiles. (ADEME) 
+
+- Transport et distribution : 60g de CO2, le tee-shirt va en moyenne parcourir <b>10 000km en avion/camions</b> la plupart venant de Chine.
+
+- Utilisation : <b>600g de CO2</b>, chaque année, 520kg de textiles sont lavés, sechés et repassés par foyer (12% de la consommation d'eau).
+
+- Fin de vie : 200g de CO2, <b>700 000 tonnes de déchets textiles/an en France</b>. En moyenne un francais achète 9.2kg de textile chaque années.
+
+### Pas toujours bien de recycler ses vêtements ?
+Aujourd'hui, on peut penser que qu'en placant nos vêtements dans des conteneurs prévu à cet effet est un bonne chose. Il s'avère qu'une partie finissent dans des pays qui n'ont rien demandé.
+
+Un des plus gros exemple est le <b>Ghana, chaque semaine 15 millions de vêtements sont ammenés</b> dans ce pays en Afrique de l'Ouest.
+
+Environ la moitié dans un mauvais état, donc non réutilisable. Cela indique plusieurs choses, non seulement un grande partie de ces vêtements est encore utilisable mais que un pays de seulement 30 millions d'habitants recoit un quantité énorme de vêtements chaque semaine. Contraint de laisser les vêtements tel qu'ils sont, ils s'accumulent sur les plages et finissent dans les océans. 
+
+> Seulement 3% des vêtements collectés sont redistribués, le reste est expédié à l'international, principalement en Afrique. (Marina Fabre Soundron)
+
+<p align="center">
+    <img src="./ghana_beach.png" width="400" height="250">
+    <p>
+        Plage à Accra, Ghana © The OR Foundation
+    </p>
+</p>
+
+✅ La solution ? Ne pas acheter des vêtements qu'on ne va pas régulièrement utiliser. 
+>En moyenne en Europe, un vêtement est porté seulement 7 fois avant d'être jeté
+
+
+Ce qui reste très peu... Quand on sait ce qu'à coûté ce vêtement pour parvenir jusqu'à nous.
 
 ---
 ## 🚗 Transports - <b>24.5% de l'émission de CO2 (30% en France)</b>
