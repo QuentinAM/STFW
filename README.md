@@ -21,9 +21,9 @@
     - [Commande internet](#commande-internet)
 - [Vêtements - <b>10% de l'émission de CO2 (26% en France)</b>](#-vêtements---10-de-lémission-de-co2-26-en-france)
     - [Pas toujours bien de recycler ses vêtements ?](#pas-toujours-bien-de-recycler-ses-vêtements-)
-- [Santé](#🏥-santé)
-    - [Cigarette - <b>4,5 milliards mégots de cigarette/an jetés</b>](#🚭-cigarette---b45-milliards-mégots-de-cigarettean-jetésb)
-- [Autres](#🤷-autres)
+- [Santé](#-santé)
+    - [Cigarette - <b>4,5 milliards mégots de cigarette/an jetés</b>](#-cigarette---45-milliards-mégots-de-cigarettean-jetés)
+- [Autres](#-autres)
 - [Sources](./Sources.md)
 ---
 
