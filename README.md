@@ -22,7 +22,7 @@
 - [Vêtements](#-vêtements---10-de-lémission-de-co2-26-en-france)
     - [Pas toujours bien de recycler ses vêtements ?](#pas-toujours-bien-de-recycler-ses-vêtements-)
 - [Santé](#🏥-santé)
-- [Éducation](#🎓-éducation)
+    - [Cigarette - <b>4,5 milliards mégots de cigarette/an jetés</b>](#🚭-cigarette---b45-milliards-mégots-de-cigarettean-jetésb)
 - [Autres](#🤷-autres)
 - [Sources](./Sources.md)
 ---
@@ -185,9 +185,28 @@ Pour ce type de tranports, il est souvent compliqué de s'y rendre à pied ou en
     
 ---
 ## 🏥 Santé
+### 🚭 Cigarette - <b>4,5 milliards mégots de cigarette/an jetés</b>
+>https://www.tabac-info-service.fr/
 
----
-## 🎓 Éducation
+Parmis les déchets jetés dans la nature, ls mégôt cigarettes est sans doute un des plus polluant.
+La simple production d'une cigarette produit déjà <b>1.22g CO2</b>.
+
+L'enjeu climatique est encore plus important car la majorité se retrouve jeté dans la nature/par terre. En moyenne dans le monde il y'a <b>130 000 mégôts jetés/seconde (1000/s en france)</b>.
+La plupart se retrouvant dans la mer c'est un des déchets les plus polluants des océants. Un seul mégôt peut polluer jusqu'à 500 litres d'eau.
+
+Ils peuvent en plus de ca déclencher des feux, en moyenne c'est la cause de 30% des départs de feu (Bouches-du-Rhône).
+> En effet, un mégot peut continuer à se consumer pendant 3 ou 4h.
+
+Un coup économique : chaque année 2 milliards de mégots ramassés à Paris (500 millions à Marseille), ce qui resprésente 38e/an/habitant. Et rappelons que jeté un mégot par terre est <b>interdit en France et passible d'une amende de 68€</b>.
+
+La cigarret a donc en plus d'avoir un effet nefaste sur la santé un impact écologique dramatique.
+
+✅ Comment limiter cet impact ?
+- Ne pas commencer à fumer (Même essayer, étant un produit addictif la dépendance à la cigarette est très importante).
+- En parler à des professionnels de santé pour se faire aider à arrêter
+- Si on ne peut vraiment pas arrêter de fumer : ne pas jeter ses cigarettes par terre, soit acheter un cendrier de poche/les mettres dans un mouchoir en attendant de rentrer chez soit, faire quelques mettres de plus pour les jeter à la poubelle.
+
+### Plus d'informations : https://www.tabac-info-service.fr/
 
 ---
 ## 🤷 Autres
